@@ -63,15 +63,15 @@ Provide Endpoint, Client Id, Client Secret, country code and Distributor code an
 ## Endpoints
 
 The following are the endpoints available:
-    * orders
-    * invoices
-    * inventoryItems
-    * creditNotes
-    * debitNotes
-    * orderStatuses
-    * customers
-    * customerContacts
-    * customerShipToAddresses
-    * returns
-    * productPrices
-    * companyInvoices
+* orders
+* invoices
+* inventoryItems
+* creditNotes
+* debitNotes
+* orderStatuses
+* customers
+* customerContacts
+* customerShipToAddresses
+* returns
+* productPrices
+* companyInvoices
