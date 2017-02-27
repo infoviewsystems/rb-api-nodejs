@@ -1,0 +1,11 @@
+{
+  "name": "rbdms-api-nodejs",
+  "version": "1.0.0",
+  "description": "Node Js Client SDK for RbDms Rest Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "InfoviewSystems Inc",
+  "license": "ISC"
+}
